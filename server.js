@@ -8,8 +8,8 @@ app.use(bodyParser.json());
 
 // Environment variables from .env file
 const PORT = 3000;
-const PAYPAL_CLIENT_ID = 'Af0vr2SMOnv1UA6XYutz_W4t3L7l4mYGBiTGZ6BtWAZVx9oBbu-Tk26OZ-Djx-SOvQc_ZgRgDnzZfzp8';
-const PAYPAL_SECRET = 'ECUFF7jBdH0rgiFpqYP5m1WZX9DUCR0g7fBiGOSvfcweboMGPFZ5WROANe6ls7DJs-tw8kk0DKj3b6fZ';
+const PAYPAL_CLIENT_ID = 'x';
+const PAYPAL_SECRET = 'x';
 const PAYPAL_ENVIRONMENT = 'sandbox'
 
 const environment =
